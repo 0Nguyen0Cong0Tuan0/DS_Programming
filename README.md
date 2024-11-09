@@ -1,4 +1,6 @@
 # DS_Programming
-## Team Size: 3
-## Team Memebers:
-- Trần Nguyễn Nhật Cường - 
+## Team Members:
+- Trần Nguyễn Nhật Cường - 22127048
+- Nguyễn Công Tuấn - 22127436
+- Trần Đăng Tuấn - 22127438
+
