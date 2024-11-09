@@ -1,8 +1,8 @@
 # DS_Programming - YouTube Trending Videos Dataset Analysis
 ## Team Members:
-- Trần Nguyễn Nhật Cường - 22127048
-- Nguyễn Công Tuấn - 22127436
-- Trần Đăng Tuấn - 22127438
+- Trần Nguyễn Nhật Cường - 22127048 - Leader
+- Nguyễn Công Tuấn - 22127436 - Member
+- Trần Đăng Tuấn - 22127438 - Member
 
 ## Overview
 
