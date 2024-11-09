@@ -61,4 +61,3 @@ The dataset was collected using the YouTube API and is publicly available on [Ka
 
 - `youtube_data/`: Directory containing the dataset for each region.
 - `analysis_notebooks/`: Jupyter notebooks with the analysis performed on the dataset.
-- `category_mappings/`: JSON files mapping category IDs to human-readable names for each region.
