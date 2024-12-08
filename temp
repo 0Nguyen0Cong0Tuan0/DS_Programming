@@ -1,0 +1,25 @@
+import json
+
+# Load the JSON file
+with open(file='./youtube_data/CA_category_id.json', mode='r') as file:
+    ca = json.load(file)
+    
+with open(file='./youtube_data/US_category_id.json', mode='r') as file:
+    us = json.load(file)
+
+# Extract and print category details
+categories = ca.get("items", [])
+with open(file='./ca_category.txt', mode='w') as file:
+    for category in categories:
+        category_id = category.get("id")
+        title = category.get("snippet", {}).get("title")
+        assignable = category.get("snippet", {}).get("assignable")
+        file.write(f"ID: {category_id}, Title: {title}, Assignable: {assignable}\n")
+    
+categories = us.get("items", [])
+with open(file='./us_category.txt', mode='w') as file:
+    for category in categories:
+        category_id = category.get("id")
+        title = category.get("snippet", {}).get("title")
+        assignable = category.get("snippet", {}).get("assignable")
+        file.write(f"ID: {category_id}, Title: {title}, Assignable: {assignable}\n")
