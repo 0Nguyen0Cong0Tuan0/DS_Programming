@@ -1,0 +1,36 @@
+# General
+Q1: What is the number of trending videos for each year?
+Q2: How many videos have disabled comments?
+Q3: How many videos have disabled ratings?
+Q4: How many videos have errors or have been removed?
+
+# Videos
+Q5: Which videos reach the YouTube Trending Board the quickest? Which channels do those videos belong to?
+Q6: Which videos remain on the YouTube Trending Board the longest? Which channels do those videos belong to?
+
+# Channels
+Q7: What is the number of channels?
+Q8: Which channels feature the highest number of trending videos?
+Q9: Which channels have the highest number of published categories?
+Q10: Which channels receive the most average views, likes, dislikes, and comments?
+Q11: Which channels have the best average ratio of likes to dislikes?
+
+# Seasonality
+Q12: Which months or quarters see the highest number of published videos?
+Q13: Which months or quarters see the highest number of trending videos?
+
+# Title
+Q14: How many videos have titles that are capitalized or non-capitalized?
+Q15: What is the length of videos' title?
+Q16: How many videos share the same title?
+
+# Categories
+Q17: What categories are the most common?
+Q18: What categories receive the most average views, likes, dislikes, and comments?
+
+# Tags
+Q19: What tags are the most common?
+Q20: What tags receive the most average views, likes, dislikes, and comments?
+
+# Key factors for popularity
+Q21: Which are the key factors that contribute to popularity?
