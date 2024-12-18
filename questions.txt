@@ -17,7 +17,7 @@ Q11: Which channels have the best average ratio of likes to dislikes?
 
 # Seasonality
 Q12: Which months or quarters see the highest number of published videos?
-Q13: Which months or quarters see the highest number of trending videos?
+Q13: Which months see the highest number of trending videos?
 
 # Title
 Q14: How many videos have titles that are capitalized or non-capitalized?
