@@ -5,8 +5,8 @@ Q3: How many videos have disabled ratings?
 Q4: How many videos have errors or have been removed?
 
 # Videos
-Q5: Which videos reach the YouTube Trending Board the quickest? Which channels do those videos belong to?
-Q6: Which videos remain on the YouTube Trending Board the longest? Which channels do those videos belong to?
+Q5: How long does it take for videos to start trending?
+Q6: What is the duration for which videos stay on the YouTube Trending Board?
 
 # Channels
 Q7: What is the number of channels?
