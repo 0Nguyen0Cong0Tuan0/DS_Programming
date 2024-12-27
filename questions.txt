@@ -16,7 +16,7 @@ Q10: Which channels receive the most average views, likes, dislikes, and comment
 Q11: Which channels have the best average ratio of likes to dislikes?
 
 # Seasonality
-Q12: Which months or quarters see the highest number of published videos?
+Q12: Which months see the highest number of published videos?
 Q13: Which months see the highest number of trending videos?
 
 # Title
@@ -30,7 +30,3 @@ Q18: What categories receive the most average views, likes, dislikes, and commen
 
 # Tags
 Q19: What tags are the most common?
-Q20: What tags receive the most average views, likes, dislikes, and comments?
-
-# Key factors for popularity
-Q21: Which are the key factors that contribute to popularity?
